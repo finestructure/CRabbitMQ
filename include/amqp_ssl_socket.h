@@ -29,7 +29,7 @@
 #ifndef AMQP_SSL_H
 #define AMQP_SSL_H
 
-#include <amqp.h>
+#include "amqp.h"
 
 AMQP_BEGIN_DECLS
 

@@ -760,7 +760,7 @@ typedef enum {
 
 AMQP_END_DECLS
 
-#include <amqp_framing.h>
+#include "amqp_framing.h"
 
 AMQP_BEGIN_DECLS
 

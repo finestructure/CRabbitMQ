@@ -38,7 +38,7 @@
 #ifndef AMQP_FRAMING_H
 #define AMQP_FRAMING_H
 
-#include <amqp.h>
+#include "amqp.h"
 
 AMQP_BEGIN_DECLS
 

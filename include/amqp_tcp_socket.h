@@ -33,7 +33,7 @@
 #ifndef AMQP_TCP_SOCKET_H
 #define AMQP_TCP_SOCKET_H
 
-#include <amqp.h>
+#include "amqp.h"
 
 AMQP_BEGIN_DECLS
 
