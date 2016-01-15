@@ -1,8 +1,5 @@
 module CRabbitMQ {
-  header "include/amqp.h"
-  header "include/amqp_framing.h"
-  header "include/amqp_ssl_socket.h"
-  header "include/amqp_tcp_socket.h"
+  header "include/rabbitmq.h"
   link "rabbitmq"
   export *
 }
