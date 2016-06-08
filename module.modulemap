@@ -1,5 +1,5 @@
-module CRabbitMQ {
-  header "include/rabbitmq.h"
+module CRabbitMQ [system] {
+  header "rabbitmq.h"
   link "rabbitmq"
   export *
 }
