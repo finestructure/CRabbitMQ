@@ -1,5 +1,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CRabbitMQ"
+    name: "CRabbitMQ",
+    exclude: ["rabbitmq-c", "Sources/librabbitmq/win32"]
 )
